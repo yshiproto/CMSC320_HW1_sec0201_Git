@@ -1,8 +1,8 @@
-Question 1: What is 2 + 2?
-Answer: 4
+Q1: Why might we consider using Git?
+Answer: Git records changes over time, supports collaboration through branches and merges, and makes it possible to recover or compare earlier versions of a project.
 
-Question 2: What is 3 + 3?
-Answer: 6
+Q2: What field could data science be applied to? Give an example.
+Answer: Data science can be applied to healthcare; for example, it can help predict patient readmission risk from clinical data.
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging combines two branches by creating a merge commit that preserves both histories. Rebasing replays one branch's commits on top of another branch, creating a linear history but changing commit IDs.
